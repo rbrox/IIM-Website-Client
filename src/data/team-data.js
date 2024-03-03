@@ -1,8 +1,8 @@
 export const teamData = [
   {
     img: "/img/team-1.jpg",
-    name: "Ryan Tompson",
-    position: "Web Developer",
+    name: "Chetan Gaaru",
+    position: "Godd",
     socials: [
       {
         color: "light-blue",
@@ -20,7 +20,7 @@ export const teamData = [
   },
   {
     img: "/img/team-2.jpg",
-    name: "Romina Hadid",
+    name: "Aditi Sirigineedi",
     position: "Marketing Specialist",
     socials: [
       {
@@ -39,8 +39,8 @@ export const teamData = [
   },
   {
     img: "/img/team-3.jpg",
-    name: "Alexa Smith",
-    position: "UI/UX Designer",
+    name: "God",
+    position: "God",
     socials: [
       {
         color: "light-blue",
